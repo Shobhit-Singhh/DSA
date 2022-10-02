@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
-
+//factorial function with tail recursion 
 int T_factorial(int n, int k = 1)
 {
     if (n < 1)
