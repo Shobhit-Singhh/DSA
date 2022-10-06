@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
-
+// check prime with time complexity O(root(n))
 int T_prime(int n, int i = 2)
 {
     if (n <= 1)
