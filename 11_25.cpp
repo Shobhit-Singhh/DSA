@@ -2,6 +2,7 @@
 #include <stdlib.h>
 using namespace std;
 
+
 //String is Subsequence or not
 
 int main()
