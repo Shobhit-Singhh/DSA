@@ -4,6 +4,7 @@ using namespace std;
 
 // Leftmost non Repeating Character
 
+
 int main()
 {
     system("clear");
