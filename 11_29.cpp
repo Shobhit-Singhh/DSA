@@ -2,6 +2,8 @@
 #include <stdlib.h>
 using namespace std;
 
+//reversing words in the string
+
 int main()
 {
     system("clear");
