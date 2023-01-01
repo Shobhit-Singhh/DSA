@@ -1,0 +1,3 @@
+my name is shobhit singh
+this is first time i m using zsh terminal to edit this file 
+
